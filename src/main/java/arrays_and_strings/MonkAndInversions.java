@@ -1,4 +1,4 @@
-package monk;
+package arrays_and_strings;
 
 import java.util.Arrays;
 import java.util.Scanner;
